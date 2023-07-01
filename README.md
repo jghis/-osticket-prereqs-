@@ -27,8 +27,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 3
 - Item 4
 - Item 5
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4530f78c-c980-4352-8f9d-3d53510597ab)
+creating a resource group  in Azure
 
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/5600267d-6c18-4f82-8398-2e9cbc061066)
+creating a virtual machine in Azure
 <h2>Installation Steps</h2>
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4e75465f-655b-4d62-bc17-6e63befe82f6)
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" https://i.imgur.com/XUliOSj.pngheight="80%" width="80%" alt="Disk Sanitization Steps"/>
