@@ -33,7 +33,8 @@ creating a resource group  in Azure
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/5600267d-6c18-4f82-8398-2e9cbc061066)
 creating a virtual machine in Azure
 <h2>Installation Steps</h2>
-![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4e75465f-655b-4d62-bc17-6e63befe82f6)
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4e75465f-655b-4d62-bc17-6e63befe82f6) 
 
 
 <p>
