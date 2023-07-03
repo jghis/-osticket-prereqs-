@@ -92,6 +92,37 @@ In IIS enable some PHP extentions (PHP_intl, PHP_opcache, PHP_inetmap) and resta
 
 rename the folder osT-sample config to ost-config. set up the permission on this file to let everyone access it.
 
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/16b1b824-d769-4de9-8b48-9860e1d8c2bb)
+Install HeidiSQL 12.3.0  
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/8a2c0867-cb18-49f3-a5e4-dc45654fc8b6)
+Enter Mysql root password.
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/b849d4b7-b7d6-47d7-8f82-92c61ad29874)
+
+Create osTicket database
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/9780eb6e-db5f-46f7-8353-128d083c9354)
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/e67e6ecb-2f7d-4edb-ac53-f10361449e41)
+
+
+setting up osTicket database in osTicket browser.
+
+![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/fda0e39b-3e78-4a4e-9d08-93480d7e99d1)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/9d86a0b8-006f-4602-8aa3-05108398c668)
 
 osTicket logging
