@@ -35,7 +35,7 @@ creating a virtual machine in Azure
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4e75465f-655b-4d62-bc17-6e63befe82f6) 
-
+IIS installed
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" https://i.imgur.com/XUliOSj.pngheight="80%" width="80%" alt="Disk Sanitization Steps"/>
