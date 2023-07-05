@@ -22,23 +22,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Create an Azure virtual machine Window 10, 4 vCPUs.
+- Item 2 Install an enable IIS in Windows with CGI and common HTTP features.
+- Item 3 Download and install PHP Manager for IIS.
+- Item 4 Download and install Rewrite Module.
+- Item 5 Download PHP  7.3.8 and unzip the content into c:\PHP
+- Item 6 Download and install VC_Redist.x86.exe.
+- Item 7 Download and install MySQL 5.5.62
+- Item 7 Download and install HeidiSQL
+  
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4530f78c-c980-4352-8f9d-3d53510597ab)
-creating a resource group  in Azure
+Creating a resource group  in Azure
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/5600267d-6c18-4f82-8398-2e9cbc061066)
-creating a virtual machine in Azure
+Creating a virtual machine in Azure
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/4e75465f-655b-4d62-bc17-6e63befe82f6) 
-IIS installed
+ Remote desktop into the virtual machine using microsoft remote desktop tool and install IIS With CGI and common HTTP features.
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/d4f31f5d-66f8-4a3f-a369-da984baa0b1e)
-IIS installed
+In a web browser type the loopback IP adress 127.0.0.1 to verify if IIS is sucessfully installed. 
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/d5728364-25ce-45fb-bdde-af456465dd02)
 
@@ -50,11 +54,11 @@ Download and install Rewrite Module and create a directory named PHP in the C/dr
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/e1d6bc9f-7d14-40cc-be5a-c8517b20c330)
 
-Download PHP 738,extract and extract the content in the directory created in the c/drive (PHP)
+Download PHP 738, and extract the content in the directory created in the c/drive (PHP)
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/fe792712-8c19-431b-92a2-a84c963d0fd2)
 
-Download and install Redistributable X86 exe
+Download and install VC_Redist.x86.exe
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/b8daa5a1-2bbc-45ca-927c-d15edaa16b15)
 Download and install Mysql server(5.5.62)
@@ -83,6 +87,9 @@ Go back to IIS and restart the server.
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/28046a3e-36a6-478a-8ed4-401695d55d05)
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/ec41e567-5eb7-4eaf-a7ba-0bcd885b9e4e)
+
+In the osTicket installer we can notice that some extentions are not enabled. To enable them we will go back in IIS
+and enable some PHP extentions (PHP_intl,PHP_opcache,PHP_inetmap)
 
 ![image](https://github.com/jghis/-osticket-prereqs-/assets/132087784/ea030cd2-f89c-492b-8d22-c245c4ae43a1)
 
